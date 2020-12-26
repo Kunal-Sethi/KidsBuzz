@@ -10,7 +10,8 @@ img{
   width: 100px;
 }
 body{
-  background-image: url("images/background3.webp");
+/*   background-image: url("./images/background3.webp"); */
+  background-image: url("./images/Background.jpeg");
   padding: 0;
   /* background-color: #38f805; */
   background-color: #ff9234;
